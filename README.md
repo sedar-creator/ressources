@@ -1,3 +1,3 @@
 # icons
 
-use: https://raw.githubusercontent.com/sedar-creator/icons/main/about.png
+use: https://raw.githubusercontent.com/sedar-creator/ressources/main/icons/github.svg
